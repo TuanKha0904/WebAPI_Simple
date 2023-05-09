@@ -1,0 +1,5 @@
+CREATE DATABASE BookAuthorDB
+GO
+
+USE BookAuthorDB
+GO
